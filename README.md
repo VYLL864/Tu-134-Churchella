@@ -2,7 +2,7 @@
 
 <h2 align="center"><< Туполев Ту-134А-3 для X-Plane 11 >></h2>
 
-<h3 align="center"><< Текущая версия 1.00 (от 19.02.2024)>></h3>
+<h3 align="center"><< Текущая версия 1.01 (от 02.04.2024) >></h3>
 
 <h4 align="center"><img src="https://sun9-79.userapi.com/impg/gahxNcl3Q5Kz67mLdibI9byq_Yjjfjavw1GHwg/OCKiCWh8C0M.jpg?size=640x640&quality=95&sign=1188847bda9b2ef48447704f66c40cda&type=album" height="200"/></h4>
 
@@ -12,14 +12,14 @@
 
 Это репозиторий самолета Ту-134А-3 для X-Plane 11.
 
-Превью и в целом модель можно заценить по ссылке в заголовке (там наше сообщество)
+Превью и в целом модель можно заценить по ссылке в заголовке (там наше сообщество).
 
 
 ## Установка
 
 Крайнюю версию можно скачать [в релизах репозитория.](https://github.com/VYLL864/Tu-134-Churchella/releases)
 
-Там же можно прочитать **логи изменений (change log).**
+Там же можно прочитать **списки изменений (change log).**
 
 - Для установки необходимо скопировать содержимое архива в корень вашего X-Plane 11. 
 
@@ -29,11 +29,11 @@
 
 Необязательно скачивать весь самолет, если версия обновилась.
 
-Обновляться можно через [SkunkCrafts Updater.](https://forums.x-plane.org/index.php?/forums/topic/292710-skunkcrafts-updater-standalone-client/)
+Обновляться можно через [SkunkCrafts Updater](https://forums.x-plane.org/index.php?/forums/topic/292710-skunkcrafts-updater-standalone-client/) (начиная с версии 1.01).
 
 В комплекте с самолетом идет актуальная на момент выхода версия приложения 3.0.
 
-Также в комплекте идет программа myNL, с помощью которой можно автоматизировать полет по нав. комплексу НАС-1. Работа гарантируется только в приложенной версии программы.
+Также в комплекте идет программа myNL, с помощью которой можно автоматизировать полет по нав. комплексу НАС-1.
 
 Подробно можете ознакомиться с данной функцией в инструкции к модели (ниже).
 
@@ -48,11 +48,11 @@
 
 ## Инструкция к модели
 
-[Файл](http://churchella.ru:88/Tu-134A-3_manual.pdf)
+[Файл](http://churchella.com.ru:88/Tu-134A-3_manual.pdf)
 
 ## Пейнткит
 
-[Файл](http://churchella.ru:88/134_Paintkit.zip)
+[Файл](http://churchella.com.ru:88/134_Paintkit.zip)
 
 ## Есть ли у вас профиль для Simbrief?
 
@@ -60,15 +60,13 @@
 
 Вы также можете воспользоваться профилем для Professional Flight Planner X (PFPX).
 
-[Файл](http://churchella.ru:88/Tu-134.txt)
+[Файл](http://churchella.com.ru:88/Tu-134.txt)
 
 ## Я хочу сообщить о баге/недоработке
 
 Это здорово, т.к. мы всегда открыты к любой обратной связи.
 
 Вы можете это сделать [в теме нашего сообщества.](https://vk.com/topic-224319955_49542192)
-
-Баги, недоработки, над которыми непосредственно будет вестись работа, будут указаны в [Issues.](https://github.com/VYLL864/Tu-134-Churchella/issues)
 
 Помните, что обратная связь не должна быть навязыванием своих идей явным или неявным способом.
 
@@ -85,6 +83,16 @@ VYLL864 - сопровождение разработки, а также все 
 Dmitry Iks - доработка 3D моделей, автор текстур, текстур нормалей, тестирование, инструкция.
 
 ShuriH - тестирование, автор пейнткита, консультант.
+
+Al Me - тестирование.
+
+Евгений Гимаев - librain, анимация лопаток и решеток двигателей.
+
+Andrew Cleanwing - звуки (fmod), документация, консультант.
+
+Александр Кравченко - звуки, консультант.
+
+Евгений Баруткин - помощь по 3D.
 
 Дмитрий Александров - консультант.
 
@@ -110,4 +118,4 @@ KAI31, FlaynGrizzly, AltynPilot, Felis, Pilot-sanya, Леонид с ютуб-к
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/VYLL864/Tu-134-Churchella">Туполев Ту-134А-3 для X-Plane 11</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://vk.com/churchellateam">Churchella team ®</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a></p>
 
-Модель полностью бесплатная.
+Модель бесплатная.
