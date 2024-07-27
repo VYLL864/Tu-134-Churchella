@@ -48,11 +48,11 @@
 
 ## Инструкция к модели
 
-[Файл](http://churchella.com.ru:88/Tu-134A-3_manual.pdf)
+[Файл](https://cloud.mail.ru/public/vx3f/X1fCcg2UG)
 
 ## Пейнткит
 
-[Файл](http://churchella.com.ru:88/134_Paintkit.zip)
+[Файл](https://cloud.mail.ru/public/CjfV/mU9VVeXsC)
 
 ## Есть ли у вас профиль для Simbrief?
 
@@ -60,7 +60,7 @@
 
 Вы также можете воспользоваться профилем для Professional Flight Planner X (PFPX).
 
-[Файл](http://churchella.com.ru:88/Tu-134.txt)
+[Файл](https://cloud.mail.ru/public/bxHk/pvkiueQBX)
 
 ## Я хочу сообщить о баге/недоработке
 
